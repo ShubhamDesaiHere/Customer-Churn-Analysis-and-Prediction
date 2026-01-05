@@ -53,6 +53,6 @@ NumPy
 
 Scikit-learn
 
-✅ Outcome
+✅ Outcomes
 
 A clean, structured, and machine-learning-ready dataset was created, forming a strong foundation for exploratory data analysis and churn prediction modeling in the next stages of the project.
